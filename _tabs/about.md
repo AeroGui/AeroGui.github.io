@@ -25,7 +25,7 @@ Paralelamente tenho minha prática pessoal de Ashtanga Yoga. Diariamente faço a
 ![Workshop1](assets/img/eu3.jpg){: width="451" height="338" }
 _Workshop de Ashtanga Yoga em Uberlândia_
 
-![Workshop2](assets/img/img/eu4.jpeg){: width="451" height="338" }
+![Workshop2](assets/img/eu4.jpeg){: width="451" height="338" }
 _Workshop de Ashtanga Yoga em Uberlândia_
 
 Essa é uma parte do meu lado Yogui.
@@ -50,9 +50,9 @@ No fim da universidade, meu trabalho de conclusão de curso TCC foi uma integra�
 
 ![AirfoilMaker](assets/img/eu10.jpg){: width="451" height="338" }
 _Polares aerodinâmicas dentro do AirfoilMaker_
-![OpenVSP](assets/img/img/eu11.jpg){: width="451" height="338" }
+![OpenVSP](assets/img/eu11.jpg){: width="451" height="338" }
 _Aeronave Horizon dentro do OpenVSP_
-![Xplane11](assets/img/img/eu12.jpg){: width="451" height="338" }
+![Xplane11](assets/img/eu12.jpg){: width="451" height="338" }
 _Aeronave Horizon dentro do PlaneMaker_
 
 Em 2014 visitei a convite da empresa Geoline Engenharia o IEAv da Força Aérea Brasileira em São José dos Campos. Tive a oportunidade de conhecer o laboratório de aerodinâmica e hipersônica, bem como conhecer mais sobre escoamentos hipersônicos e VANTS. Algo que vinha surgindo no mercado até então.

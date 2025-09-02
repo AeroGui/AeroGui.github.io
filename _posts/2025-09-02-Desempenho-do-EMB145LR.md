@@ -155,10 +155,8 @@ $k_{e,M}=0,9985$
 
 Destacamos que apesar da aeronave voar em M 0,78 usamos um M 0,60 pois a inflûencia do número de Mach no fator de Oswald aumenta bastante após M 0,6, e isso traria imprecisão no cálculo estimado do fator de Oswald, a seguir mostramos como a inflûencia do número de Mach impacta sobre o fator de Oswald para o EMB-145LR, a figura abaixo indica a região onde o fator não varia com Mach, porém no regime transônico ocorre signifcativa alteração.
       
-![Gráfico Fator de Oswald X Mach](oswald.jpg){: width="451" height="338" }
+![Gráfico Fator de Oswald X Mach](assets/img/oswald.jpg){: width="451" height="338" }
 _Gráfico Fator de Oswald X Mach_
-
-
 
 ## 2.1.5 Cálculo do fator de Oswald ($e$)
 
@@ -346,8 +344,7 @@ $$
 A área molhada, é a área que é exposta ao escoamento de ar duarante o voo. Para determiná-lo pode-ser usar relações empíricas de aeronaves já produzidas através de tabelas ou pode-se usar softwares CAD para estimar com mais precisão a área molhada de cada componente da aeronave. Para nosso trabalho usamos um modelo CAD do embraer 145 disponível para [download](https://grabcad.com/library/embraer-erj-145-1), conforme imagem e tabela abaixo:
 
 
-![EMB-145 SolidWorks](solidworks-emb145.jpg)
-{: width="451" height="338" }
+![EMB-145 SolidWorks](assets/img/emb145.jpg){: width="451" height="338" }
 _EMB-145 no Solidworks_
 
 
@@ -365,6 +362,7 @@ _EMB-145 no Solidworks_
 
 
 Sabendo que a área de referência da asa é de $51,18 m^2$ temos todos os valores necessários para determinar o coeficiente de arrasto parasita da fuselagem, substituindo os valores encontrados na equação (9) temos:
+
 $$
 \begin{equation*}
 \begin{align*}
@@ -373,23 +371,6 @@ $$
 \end{align*}
 \end{equation*}
 $$
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Referências
 
