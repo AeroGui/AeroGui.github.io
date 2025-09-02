@@ -154,9 +154,8 @@ $k_{e,M}=0,9985$
 
 
 Destacamos que apesar da aeronave voar em M 0,78 usamos um M 0,60 pois a inflûencia do número de Mach no fator de Oswald aumenta bastante após M 0,6, e isso traria imprecisão no cálculo estimado do fator de Oswald, a seguir mostramos como a inflûencia do número de Mach impacta sobre o fator de Oswald para o EMB-145LR, a figura abaixo indica a região onde o fator não varia com Mach, porém no regime transônico ocorre signifcativa alteração.
-    
-    
-<iframe src="https://drive.google.com/file/d/1yuMpLqIbsyjZMLpAlv1VZPAY5nmQh68q/preview" width="640" height="480" allow="autoplay"></iframe> 
+      
+![Desktop View](https://drive.google.com/file/d/1yuMpLqIbsyjZMLpAlv1VZPAY5nmQh68q/preview){: width="972" height="589" }
 
 
 ## 2.1.5 Cálculo do fator de Oswald ($e$)
