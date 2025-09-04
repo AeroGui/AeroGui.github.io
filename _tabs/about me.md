@@ -15,7 +15,7 @@ Essa pessoa se chama Guilherme Aguiar Brum, nascido em Divinópolis, no estado d
 
 Logo, comecei a observar alguns rastros brancos cruzando o céu, e aquilo me instigava. Descobri que se tratavam de trilhas de condensação deixadas pelas aeronaves. A partir daquele momento, comecei a querer entender mais sobre aviões: o que era aquilo que estava tão alto e rápido, cruzando os céus?
 
-Ao longo dos anos, fui aprimorando meus conhecimentos até decidir que iria cursar Engenharia Aeronáutica. Em meados dos anos 2008 e 2009, após voar muitas horas em simulador de voo, me tornei colaborador em um blog com conteúdos para o Microsoft Flight Simulator 2004. É possível acessá-lo ainda hoje no [site](www.flightsimulator2004downloads.blogspot.com).
+Ao longo dos anos, fui aprimorando meus conhecimentos até decidir que iria cursar Engenharia Aeronáutica. Em meados dos anos 2008 e 2009, após voar muitas horas em simulador de voo, me tornei colaborador em um blog com conteúdos para o Microsoft Flight Simulator 2004. É possível acessá-lo ainda hoje no [site](www.flightsimulator2004downloads.blogspot.com.br).
 
 Atualmente, sou engenheiro aeronáutico formado pela Universidade Federal de Uberlândia. Durante a jornada, acabei transmitindo essa paixão aeronáutica para outras pessoas: alguns se tornaram pilotos, enquanto outros vinham até mim para entender mais sobre aviação.
 
@@ -39,6 +39,11 @@ Encorajo o leitor a buscar entender o que é essa prática de yoga e sua filosof
 _Workshop de Ashtanga Yoga em Uberlândia_
 
 ![Workshop2](assets/img/eu4.jpeg){: width="451" height="338" }
+_Workshop de Ashtanga Yoga em Uberlândia_
+
+![Workshop3](assets/img/eu21.jpg){: width="451" height="338" }
+_Workshop de Ashtanga Yoga em Uberlândia_
+![Workshop4](assets/img/eu22.jpg){: width="451" height="338" }
 _Workshop de Ashtanga Yoga em Uberlândia_
 
 Essa é uma parte do meu lado Yogui.
@@ -95,3 +100,6 @@ _Visita ao IEAv da FAB com a Geoline Engenharia_
 Atualmente, tenho vontade de ter esse site para compartilhar conteúdos com as pessoas. Trazer projetos, ideias e tutoriais para quem gosta desse tipo de assunto e universo aeronáutico. Para aqueles que desejam fazer seus próprios projetos caseiros e aprender através do caminho teórico e prático. Aqui, também irei trazer reflexões sobre o Yoga e aspectos relacionados à mente humana.
 
 De certo modo, digo olá ao mundo através desse site, onde o público poderá conhecer mais a respeito das minhas ideias. A propósito, sou vegetariano, pois acredito ser o caminho mais consciente para o corpo e o planeta. Namastê!
+
+----
+*Honrar o passado servir ao futuro*
