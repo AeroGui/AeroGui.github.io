@@ -4,7 +4,7 @@ description: PDF com as três vistas da aeronave emb-145LR.
 author: Guilherme Aguiar Brum
 date: 2024-04-08 11:33:00 +0800
 categories: [Engenharia Aeronáutica]
-tags: [CAD]
+tags: [Desempenho de Aeronaves,CAD]
 pin: true
 math: true
 mermaid: true

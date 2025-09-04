@@ -17,7 +17,7 @@ image:
 Dados retirados de [^EMBRAER]
 <object data="/assets/pdf/dimensoes_gerais.pdf" type="application/pdf" width="100%" height="700px">
     <p>Não foi possível visualizar o PDF. 
-       <a href="/assets/pdf/dimensoes_gerais">Clique aqui para baixar</a>
+       <a href="/assets/pdf/dimensoes_gerais.pdf">Clique aqui para baixar</a>
     </p>
 </object>
 ---
