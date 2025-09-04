@@ -15,7 +15,7 @@ Essa pessoa se chama Guilherme Aguiar Brum, nascido em Divinópolis, no estado d
 
 Logo, comecei a observar alguns rastros brancos cruzando o céu, e aquilo me instigava. Descobri que se tratavam de trilhas de condensação deixadas pelas aeronaves. A partir daquele momento, comecei a querer entender mais sobre aviões: o que era aquilo que estava tão alto e rápido, cruzando os céus?
 
-Ao longo dos anos, fui aprimorando meus conhecimentos até decidir que iria cursar Engenharia Aeronáutica. Em meados dos anos 2008 e 2009, após voar muitas horas em simulador de voo, me tornei colaborador em um blog com conteúdos para o Microsoft Flight Simulator 2004. É possível acessá-lo ainda hoje no [site](www.flightsimulator2004downloads.blogspot.com.br).
+Ao longo dos anos, fui aprimorando meus conhecimentos até decidir que iria cursar Engenharia Aeronáutica. Em meados dos anos 2008 e 2009, após voar muitas horas em simulador de voo, me tornei colaborador em um blog com conteúdos para o Microsoft Flight Simulator 2004. É possível acessá-lo ainda hoje no [site](www.flightsimulator2004downloads.blogspot.com)
 
 Atualmente, sou engenheiro aeronáutico formado pela Universidade Federal de Uberlândia. Durante a jornada, acabei transmitindo essa paixão aeronáutica para outras pessoas: alguns se tornaram pilotos, enquanto outros vinham até mim para entender mais sobre aviação.
 
