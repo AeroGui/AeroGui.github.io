@@ -42,7 +42,6 @@ Devemos ligá-los nos terminais da placa Leobodnar conforme imagem. Após isso b
 ![Desktop View](https://www.leobodnar.com/shop/images/2BU0836A_09.jpg){: width="500" height="500" }_Representação dos eixos na pinagem da placa_
 
 
-
 A seguir deixo o video exemplificando os processos descritos acima, e o movimento de controle do  Joystick.
 
 {%
