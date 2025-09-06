@@ -31,7 +31,6 @@ O esquema de ligação dos potenciômetros na placa é de certo modo bastante si
 3-	Positivo
 
 
-![Desktop View](https://www.leobodnar.com/shop/images/2BU0836A_09.jpg){: width="300" height="300" }_Representação dos eixos na pinagem da placa_
 
 Devemos ligá-los nos terminais da placa Leobodnar conforme imagem. Após isso basta ligar o joystick na entrada usb do seu pc por uma cabo USB A to B, usado em impressoras antigas, comumente encontrado em lojas de TI. O cabo USB fornecerá a alimentação 5V para placa e fará a comunicação entre os potenciômetros e o PC.
 
@@ -39,6 +38,8 @@ Devemos ligá-los nos terminais da placa Leobodnar conforme imagem. Após isso b
 
 
 ![Desktop View](assets/img/joystick2.png){: width="500" height="500" }_Identificação dos potênciômetros no Joystick_
+
+![Desktop View](https://www.leobodnar.com/shop/images/2BU0836A_09.jpg){: width="500" height="500" }_Representação dos eixos na pinagem da placa_
 
 
 
