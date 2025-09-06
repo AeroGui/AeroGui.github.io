@@ -7,7 +7,7 @@ order: 4
 
 Essa pergunta carrega consigo uma enorme profundidade. Acredito que passamos uma vida tentando nos conhecer, e ainda assim é muito pouco. Eu me considero um buscador, alguém que busca entender os mistérios da vida e do universo. Talvez por isso eu tenha me enveredado pelo caminho do Yoga.
 
-Em primeiro lugar, sou e estou sendo humano. Parece óbvio dizer isso, mas é preciso nos dias de hoje. Ser humano carrega consigo muitos atributos magníficos que a grande maioria das pessoas parece ter se esquecido nos tempos atuais. Na condição humana em que estou, busco sempre ser mais humano: afetivo, cuidadoso, devagar, atencioso, consciente e presente.
+Em primeiro lugar, sou e estou sendo humano. Parece óbvio dizer isso, mas é preciso nos dias de hoje. Ser humano carrega consigo muitos atributos magníficos que a grande maioria das pessoas parece ter se esquecido nos tempos atuais. Na condição humana em que estou, busco sempre ser mais humano: afetivo, cuidadoso, delicado , atencioso, consciente e presente.
 
 Tenho percebido que, quanto mais posturas de Yoga eu faço (ásanas), mais consciente eu me torno. Mas, afinal, quem é essa pessoa que escreve esse texto?
 
